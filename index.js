@@ -30,7 +30,7 @@ console.log("               ");
 console.log("        Question3       ");
 
 let myName = "Mohammad Zed";
-let wage = 20;
+let wage = 18;
 
 console.log("My name is " , myName , " and my age is " , wage , ".");
 
@@ -46,7 +46,7 @@ let school = "New eduction high school, Viramgam";
 let grade = "10th";
 let section = "B";
 let rollNo = 21;
-let math = 98, english = 90, hindi = 88;
+let math = 98, english = 70, hindi = 88;
 let total = math + english + hindi;
 let average = total / 3;
 
@@ -67,3 +67,4 @@ console.log("----------------------------------");
 console.log("Total Marks: " , total);
 console.log("Average:     " , average.toFixed(2));
 console.log("==================================");
+
